@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/charlson-comorbidity-index-any---primary.py
+inputModule3:
+  class: File
+  path: python/lymphoproliferative-charlson-comorbidity-index---primary.py
+inputModule4:
+  class: File
+  path: python/pulmonary-charlson-comorbidity-index---primary.py
+inputModule5:
+  class: File
+  path: python/cerebrovascular-charlson-comorbidity-index---primary.py
+inputModule6:
+  class: File
+  path: python/charlson-comorbidity-index-cardiac---primary.py
+inputModule7:
+  class: File
+  path: python/charlson-comorbidity-index-hemiplegia---primary.py
+inputModule8:
+  class: File
+  path: python/charlson-comorbidity-index-complication---primary.py
+inputModule9:
+  class: File
+  path: python/charlson-comorbidity-index---primary.py
+inputModule10:
+  class: File
+  path: python/charlson-comorbidity-index-tumour---primary.py
+inputModule11:
+  class: File
+  path: python/severe-charlson-comorbidity-index---primary.py
+inputModule12:
+  class: File
+  path: python/charlson-comorbidity-index-liver---primary.py
+inputModule13:
+  class: File
+  path: python/charlson-comorbidity-index-dementium---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
